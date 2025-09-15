@@ -6,8 +6,8 @@
     "updateUrl": "https://Telegram.me/fotball_kora",
     "title": "New Update Available!",
     "description": "What's New!.\n1. New Ui Design\n2. improved performance\n4. Stable Ui Design",
-    "isForce": true,
-    "isExpired": true,
+    "isForce": flase,
+    "isExpired": flase,
     "expiryDate": "2025-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
