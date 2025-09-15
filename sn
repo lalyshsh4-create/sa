@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "",
+    "packageName": "com.paid.project1203",
+    "versionCode": 0,
+    "updateUrl": "https://Telegram.me/EpicModder",
+    "title": "New Update Available!",
+    "description": "What's New!.\n1. New Ui Design\n2. improved performance\n4. Stable Ui Design",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2026-09-01",
+    "closeButtonText": "Exit",
+    "updateButtonText": "Update Now!"
+  }
+  ] 
